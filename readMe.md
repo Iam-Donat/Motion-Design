@@ -1,5 +1,7 @@
 # Basic Drum Kit App 🥁
 
+## Day One
+
 <p>
 I made this simple application while doing day one of <a href="Javascript30.com" style="color:gold">Javascript30.com</a> <strong>Wes Bos's</strong> Course.
 </p>

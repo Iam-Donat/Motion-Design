@@ -23,6 +23,7 @@ function removeTransition(e) {
       // console.log(e.propertyName); 
 
       this.classList.remove("playing"); // remove the transform effect applied to the playAudio() execution phase
+      audio.currentTime = 0;
 }
 ////////////////////////////////////////////////////////////////
 
